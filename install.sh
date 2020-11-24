@@ -13,6 +13,8 @@ echo $white "INSTALL NANO"
 pkg install nano
 echo $red "INSTALL FIGLET"
 pkg install figlet
+echo $cyan "INSTALL PYTHON"
+pkg install python
 echo $green "INSTALL PYTHON2"
 pkg install python2
 echo $blue "INSTALL COWSAY"
